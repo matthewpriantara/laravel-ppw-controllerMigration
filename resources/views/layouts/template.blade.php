@@ -12,7 +12,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid px-5">
-            <a class="navbar-brand fw-bold" href="#">WELCOME TO MY WEBSITE</a>
+            <a class="navbar-brand fw-bold" href="/">WELCOME TO MY WEBSITE</a>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto fw-bold gap-3">
                     <li class="nav-item">
