@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\BuatController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PostController;
 
@@ -20,4 +21,4 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/data', [PostController::class, 'index']);
+Route::get('/data', [BuatController::class, 'index']);
